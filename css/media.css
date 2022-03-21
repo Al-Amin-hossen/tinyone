@@ -1,0 +1,195 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .menu ul li a{
+        padding: 5px 0 0 !important;
+        font-size: 20px !important;
+        text-align: right;
+    }
+    .slider{
+        padding-bottom: 60px;
+    }
+    .indicator{
+        bottom: -52px !important
+    }
+    .carousel-indicators button{
+        width: 13px !important;
+        height: 13px !important;
+    }
+    .s-text{
+        padding-top: 0px;
+    }
+    .s-text h2{
+        font-size: 25px;
+    }
+    .s-text h4{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_icon ul li {
+        margin-right: 20px !important;
+    }
+    .icon{
+        font-size: 35px;
+    }
+    .feature{
+        padding: 60px 0;
+    }
+    .f_heading{
+        font-size: 25px;
+    }
+    .f-subtitle{
+        margin: 10px 0;
+        font-size: 16px;
+    }
+    .f_icon{
+        font-size: 40px;
+        text-align: center !important;
+    }
+    .f_text{
+        text-align: center;
+    }
+    .f_text h3{
+        font-size: 18px;
+    }
+    .mt{
+        margin-top: 15px;
+    }
+    .newslatter{
+        padding: 60px;
+        background: #010101;
+    }
+    .n_content h2{
+        font-size: 25px;
+    }
+    .n_content p{
+        font-size: 18px;
+    }
+    .n_email{
+        height: 40px;
+    }
+    .n_btn{
+        height: 40px;
+    }
+    .social_icon{
+        padding-top: 40px;
+    }
+    .social_icon ul li a {
+        width: 30px;
+        height: 30px;
+        margin: 0px 0px;
+        font-size: 25px;
+    }
+    .f_item{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    footer{
+        padding-bottom: 50px;
+    }
+ }
+
+/* Small devices (landscape phones, 576px to 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu ul li a{
+        padding: 5px 0 0 !important;
+        text-align: right;
+    }
+    .slider{
+        padding-bottom: 60px;
+    }
+    .indicator{
+        bottom: -52px !important
+    }
+    .carousel-indicators button{
+        width: 13px !important;
+        height: 13px !important;
+    }
+    .s-text{
+        padding-top: 0px;
+    }
+    .s-text h2{
+        font-size: 25px;
+    }
+    .s-text h4{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_icon ul li {
+        margin-right: 20px !important;
+    }
+    .icon{
+        font-size: 35px;
+    }
+    .feature{
+        padding: 60px 0;
+    }
+    .f_heading{
+        font-size: 25px;
+    }
+    .f-subtitle{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .f_icon{
+        font-size: 40px;
+        text-align: center !important;
+    }
+    .f_text{
+        text-align: center;
+    }
+    .f_text h3{
+        font-size: 18px;
+    }
+    .mt{
+        margin-top: 20px;
+    }
+    .newslatter{
+        padding: 60px;
+        background: #010101;
+    }
+    .n_content h2{
+        font-size: 25px;
+    }
+    .n_content p{
+        font-size: 18px;
+    }
+    .social_icon{
+        padding-top: 50px;
+    }
+    .f_item{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    footer{
+        padding-bottom: 50px;
+    }
+}
+
+/* Medium devices (tablets, 768px and 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu ul li a{
+        padding: 5px 0 0 !important;
+        text-align: right;
+    }
+    .f-icon{
+        text-align: center !important;
+    }
+    .mt{
+        margin-top: 40px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/* Extra Large devices (desktops, 992px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/* Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+}
